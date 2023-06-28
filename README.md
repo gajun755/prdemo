@@ -1,2 +1,3 @@
 # prdemo
-This is for pull request demo
+This is for pull request demo.
+Git branching strategy
