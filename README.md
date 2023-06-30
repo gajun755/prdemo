@@ -4,3 +4,4 @@ Git branching strategy
 Mainly divided into 
 1)Main
 2)Hotfix
+3)Develop
