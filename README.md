@@ -5,3 +5,4 @@ Mainly divided into
 1)Main
 2)Hotfix
 3)Develop
+   from develop we create feature branch
