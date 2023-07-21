@@ -7,3 +7,4 @@ Mainly divided into
 3)Develop
    from develop we create feature branch
 conflict resolve
+for that we have to disuss
