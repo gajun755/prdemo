@@ -6,3 +6,4 @@ Mainly divided into
 2)Hotfix
 3)Develop
    from develop we create feature branch
+conflict resolve
