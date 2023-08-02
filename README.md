@@ -8,3 +8,4 @@ Mainly divided into
    from develop we create feature branch
 conflict resolve
 for that we have to disuss
+some
